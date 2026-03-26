@@ -156,4 +156,3 @@ public class BookMyStay {
 
         System.out.println("\nAll bookings procesgit add .ed safely (No double booking).");
     }
-}
